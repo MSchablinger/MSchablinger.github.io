@@ -1,3 +1,3 @@
 # 👋 Welcome to my Github
-## I'm Mathias Schablinger, im 16 years old web developer from Austria
-### I'm currently working on a [PC-Builder](https://github.com/MSchablinger/PC-Builder) as a Project for the Mediatechnology subject in my school
+## I'm Mathias Schablinger, a 16 years old web developer from Austria
+### I'm currently working on a [BeanScene](https://github.com/MSchablinger/BeanScene) as a Project for the Mediatechnology subject in my school
